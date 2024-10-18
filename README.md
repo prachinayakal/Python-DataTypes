@@ -1,5 +1,3 @@
-# Python-DataTypes
-A Simple Code for understanding the different data types in Python.
 # Python Data Types
 
 This Python script demonstrates the use of various data types in Python and how to check their types using the `type()` function.
